@@ -2,7 +2,7 @@
 More-recipe: Add your most favorite recipes and also
  view recipes from different background and culture around the world
 ![A recipe photo](template/image/i.jpg)
-         TABLE OF CONTENTS
+*  TABLE OF CONTENTS
 * [Team members](#team-members)
 * [installations](#installations)
 * [functions](#functions)
